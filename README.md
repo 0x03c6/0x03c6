@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @0x03c6
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hello, I’m 0x03c6.
 
-<!---
-0x03c6/0x03c6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My interests include programming, compiler theory, theoretical computer science, vulnerability research and playing CTFs.
+
+Feel free to look around, this site is primarily a place to store and archive challenge writeups, explanations, notes on topics I’m currently researching, or just rants.
